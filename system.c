@@ -13,7 +13,7 @@
 							- We ask the voter his name surname and id number
 							- Second he is asked to type where he wanted to vote, East or West
 							- Then after that, he is aked to put it the name of the player he wanted to vote 
-							- He is then asked if he wants to vote in West as well (if has choosed East first)  
+							- He is then asked if he wants to vote in West as well (if he has choosed East first)  
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
