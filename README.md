@@ -9,5 +9,5 @@
 ##### VOTEFREE is a system I built to allow you to vote for your MVP of the season 
 
 ## Playerstatracker
-#### This app allows you to create multiple players profiles and record their information form tracking
+#### This app allows you to create multiple players profiles and record their information for tracking
 
