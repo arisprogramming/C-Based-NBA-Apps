@@ -1,4 +1,4 @@
-# NBA Apps
+ # NBA Apps
 
 
 ## Basgod
@@ -10,6 +10,6 @@
 ##### Shows how to prompter user to enter data in the console using printf function and scanfs function
 
 ## Playerstatracker
-#### This app allows you to create multiple players profiles and record their information form tracking
+#### This app allows you to create multiple players profiles and record their information for tracking
 ##### Shows how pointers can be used on structures, how to create function to create structures and the use of memory allocation in an entertaining way
 
